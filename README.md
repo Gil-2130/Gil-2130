@@ -1,12 +1,14 @@
-## Olá Gitter's 👋
+## Olá Gitter's!!! Sejam bem-vindos ao meu perfil! 👋
 
 ### Me chamo Giliard e me considero um aficionado por tecnologia e por meio dela,
-### buscar as melhores ferramentas para resolução de problemas.
+### busco as melhores práticas, conhecimento e ferramentas para resolução de problemas.
 
 ### Sempre em busca de constante aprendizado pois, aprendi que o mundo evolui rápido,
 ### e preciso estar sempre preparado ou pelo menos antenado ao que acontece à minha volta.
 
-🔭
+:computer: Trabalhando em Projetos para solidificar o conhecimento e adquirir experiência.
+
+:mag: Estudando Python :snake: e SQL :seedling:
 
 
 <!--
