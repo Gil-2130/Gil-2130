@@ -1,7 +1,6 @@
 ## Olá Gitter's!!! Sejam bem-vindos ao meu perfil! 👋
 
-### Me chamo Giliard e me considero um aficionado por tecnologia e por meio dela,
-### busco as melhores práticas, conhecimento e ferramentas para resolução de problemas.
+### Me chamo Giliard e me considero um aficionado por tecnologia e por meio dela, busco as melhores práticas, conhecimento e ferramentas para resolução de problemas.
 
 ### Sempre em busca de constante aprendizado pois, aprendi que o mundo evolui rápido,
 ### e preciso estar sempre preparado ou pelo menos antenado ao que acontece à minha volta.
