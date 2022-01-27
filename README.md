@@ -6,9 +6,9 @@
 ### Sempre em busca de constante aprendizado pois, aprendi que o mundo evolui rápido,
 ### e preciso estar sempre preparado ou pelo menos antenado ao que acontece à minha volta.
 
-:computer: Trabalhando em Projetos para solidificar o conhecimento e adquirir experiência.
+### :computer: Trabalhando em Projetos para solidificar o conhecimento e adquirir experiência.
 
-:mag: Estudando Python :snake: e SQL :seedling:
+### :mag: Estudando Python :snake: e SQL :seedling:
 
 
 <!--
