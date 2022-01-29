@@ -1,16 +1,19 @@
 ## Olá Gitter's!!! Sejam bem-vindos ao meu perfil! 👋
 
-### Me chamo Giliard e me considero um aficionado por tecnologia e por meio dela; busco as melhores práticas, conhecimento e ferramentas para resolução de problemas.
+### Me chamo Giliard, aficionado por tecnologia e por meio dela; busco as melhores práticas, conhecimento e ferramentas para resolução de problemas.
 
 ### Sempre em busca de constante aprendizado pois, aprendi que o mundo evolui rápido, e preciso estar sempre preparado ou pelo menos antenado ao que acontece à minha volta.
 
 ### :computer: Trabalhando em Projetos para solidificar o conhecimento e adquirir experiências em diferentes áreas.
 
-### :mag: Estudando Python :snake: e SQL :seedling:
+### :mag: Estudando Python :snake: SQL :seedling: e PowerBI
 
-### :flashlight: Precisa de dicas ou ajuda para algum projeto? Me envie uma msg! Embora eu ainda esteja nos baby-steps, talvez eu possa agregar algum conhecimento para o seu projeto e assim todos ganham!
+### :flashlight: Precisa de dicas ou ajuda para algum projeto? Me envie uma msg! 
 
 ### :email: gil2614@live.com
+
+
+![fluxograma-](https://user-images.githubusercontent.com/83449614/151663051-34e1423a-7572-4494-b098-a273504ecec4.png)
 
 
 <!--
