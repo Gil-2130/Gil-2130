@@ -27,13 +27,13 @@ conhecê-lo(a) e quem sabe trabalharmos juntos?
 Muito Obrigado! 
 
 ## Status Geral
-[![Gil-2130's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gil-2130&show_icons=true&theme=dracula)]
+[![Gil-2130's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gil-2130&show_icons=true&theme=dracula)
 
 ## Linguagens
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gil-2130&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Repositórios
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gil-2130&repo=Previsao-Uso-de-Energia&theme=dracula)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gil-2130&repo=Previsao-Uso-de-Energia&theme=dracula)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gil-2130&repo=Python-na-Pratica&theme=dracula)]
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gil-2130&repo=Cliques-Fraudulentos-DSA&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gil-2130&repo=Projeto_Ciencia_de-_dados&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
