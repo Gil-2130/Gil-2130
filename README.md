@@ -27,7 +27,7 @@ conhecê-lo(a) e quem sabe trabalharmos juntos?
 Muito Obrigado! 
 
 ## Status Geral
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gil-2130&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Gil-2130's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gil-2130&show_icons=true&theme=dracula)]
 
 ## Linguagens
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gil-2130&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
