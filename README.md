@@ -33,7 +33,7 @@ Muito Obrigado!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gil-2130&layout=compact&theme=dracula)](https://github.com/Gil-2130/github-readme-stats)
 
 ## Repositórios
-https://github-readme-stats.vercel.app/api/pin/?username=Gil-2130&repo=Previsao-Uso-de-Energia&theme=dracula
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gil-2130&repo=Previsao-Uso-de-Energia&theme=dracula)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gil-2130&repo=Python-na-Pratica&theme=dracula)]
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gil-2130&repo=Cliques-Fraudulentos-DSA&theme=dracula)]
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gil-2130&repo=Projeto_Ciencia_de-_dados&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
