@@ -34,9 +34,9 @@ Muito Obrigado!
 
 ## Repositórios
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gil-2130&repo=Previsao-Uso-de-Energia&theme=dracula)](https://github.com/Gil-2130/Previsao-Uso-de-Energia)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gil-2130&repo=Python-na-Pratica&theme=dracula)]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gil-2130&repo=Cliques-Fraudulentos-DSA&theme=dracula)]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gil-2130&repo=Projeto_Ciencia_de-_dados&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gil-2130&repo=Python-na-Pratica&theme=dracula)](https://github.com/Gil-2130/Python-na-Pratica)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gil-2130&repo=Cliques-Fraudulentos-DSA&theme=dracula)](https://github.com/Gil-2130/Cliques-Fraudulentos-DSA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gil-2130&repo=Projeto_Ciencia_de-_dados&theme=dracula)](https://github.com/Gil2130/Projeto_Ciencia_de-_dados)
 
 ## Skills
 [<img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' alt='Python' height='30'>](https://github.com/Gil-2130/Python-na-Pratica)
