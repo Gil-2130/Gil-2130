@@ -32,7 +32,7 @@ Muito Obrigado!
 [![Gil-2130's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gil-2130&show_icons=true&theme=dracula)](https://github.com/Gil-2130)
 
 ## Linguagens
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gil-2130&layout=compact&theme=dracula)](https://github.com/Gil-2130/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gil-2130&layout=compact&theme=darcula)](https://github.com/Gil-2130/github-readme-stats)
 
 ## Repositórios
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gil-2130&repo=Previsao-Uso-de-Energia&theme=dracula)](https://github.com/Gil-2130/Previsao-Uso-de-Energia)
